@@ -40,15 +40,15 @@ If you have any questions or would like to collaborate, feel free to reach out t
 ## Architecture
 
 ### Technical Stack
-**Core Framework:** Google Agent Development Kit (ADK)
-Research: Gemini, Perplexity
-Prompt Generation GPT-4o
-AI Image Generation: Flux Pro AI
-Video Animation: Kling 2.1 Master
-Audio Production: Lyria (Google DeepMind)
-Video Assembly: FFMPEG
-Multi-Platform Publishing: YouTube Data API v3, (Instagram Graph API, TikTok API - not implemented)
-Workflow Management: Event-driven state management with approval gates
+**Core Framework:** Google Agent Development Kit (ADK)<br>
+**Research:** Gemini, Perplexity<br>
+**Prompt Generation:** GPT-4o<br>
+**AI Image Generation:** Flux Pro AI<br>
+**Video Animation:** Kling 2.1 Master<br>
+**Audio Production:** Lyria (Google DeepMind)<br>
+**Video Assembly:** FFMPEG<br>
+**Multi-Platform Publishing:** YouTube Data API v3, (Instagram Graph API, TikTok API - not implemented)<br>
+**Workflow Management:** Event-driven state management with approval gates<br>
 
 ![MarMesh Architecture](https://github.com/user-attachments/assets/b50302a8-1c7d-454d-a560-129fbe3c57b2)
 
