@@ -2,11 +2,11 @@
 
 **Transform your campaign brief into a complete multi-channel marketing campaign in minutes! Just describe your product and budget and let this Google ADK agent handle the rest.**
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=KklDjV3atjY)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=KklDjV3atjY) Hackathon Video
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
 
-[Generated video](https://youtube.com/shorts/a98-OUanNHs?feature=share)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/a98-OUanNHs?feature=share) Generated Video
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
