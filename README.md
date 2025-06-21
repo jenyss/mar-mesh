@@ -150,7 +150,7 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 
 **Option 2:** Run Locally
 
-- Clone this repo and open the uploaded notebook in Jupyter or VSCode
+- Clone this repo and open the uploaded notebook in JupyterLab
 - Create a .env file with your API keys:
   - ```PERPLEXITY_SONAR_API_KEY```
   - ```OPENAI_API_KEY```
