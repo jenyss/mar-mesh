@@ -35,6 +35,40 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 ![MarMesh Architecture](https://github.com/user-attachments/assets/b50302a8-1c7d-454d-a560-129fbe3c57b2)
 
+### Google ADK Sequential Agent
+
+**Role:** Master Orchestrator & Workflow Controller
+
+**What it does:** Coordinates all campaign agents in sequence to deliver a complete end-to-end marketing automation workflow from initial brief to live multi-channel deployment.
+
+**Process:** Orchestrates the full pipeline: Research → Human Approval → Content Creation → Content Approval → Publishing
+
+**Output:** Complete automated marketing campaign with human checkpoints at critical decision points
+
+*The conductor of your AI marketing orchestra - ensures all agents work together seamlessly to transform your product brief into live campaigns.*
+
+### User Inputs
+
+User starts the MarMesh campaign by submitting a product launch brief and product image.
+
+### Campaign Approver Agent
+
+**Role:** Human-in-the-Loop Gateway & Workflow Controller
+
+**What it does:** Creates an interactive approval interface where you can review, edit, and approve the AI-generated campaign strategy before execution.
+
+**Process:**
+1. **Display Campaign Form** - Shows editable campaign details including target audience, channels, messaging, budget, and KPIs
+2. **Human Review** - Pauses workflow while you review and modify any campaign elements
+3. **Approval Gate** - Waits for your "Confirm & Save" or "Reject" decision
+4. **Auto-Resume** - Automatically continues workflow after approval with your edited campaign data
+
+**Key Feature:** **Editable Interface** - You can modify target audience, adjust messaging, change channels, or update budget before approving
+
+**Output:** User-approved campaign strategy with any modifications, ready for content creation
+
+*Your quality control checkpoint - ensures every campaign meets your standards before going live.*
+
 ## How-To
 
 **Option 1:** Run in Colab
