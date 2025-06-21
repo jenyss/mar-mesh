@@ -53,7 +53,7 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 
 *The conductor of your AI marketing orchestra - ensures all agents work together seamlessly to transform your product brief into live campaigns.*
 
----
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ### _Campaign Approver Agent_
 
