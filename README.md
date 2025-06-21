@@ -140,8 +140,12 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 **Option 1:** Run in Colab
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
-- Add your API keys in the Colab ```Secrets``` menu: ```PERPLEXITY_SONAR_API_KEY```, ```OPENAI_API_KEY```, ``FAL_KEY```, ``GOOGLE_API_KEY```
-- Ask ChatGPT how publish video on YouTube, then create secret with name: ```GOOGLE_CLIENT_SECRET``` and as value: copy/paste the content of your google client_secret.json file. 
+- Add your API keys in the Colab ```Secrets``` menu: ```PERPLEXITY_SONAR_API_KEY```, ```OPENAI_API_KEY```, ```FAL_KEY```, ```GOOGLE_API_KEY```
+- Ask ChatGPT how publish video on YouTube, then create secret with name: ```GOOGLE_CLIENT_SECRET``` and as value: copy/paste the content of your google client_secret.json file.
+- Define your product campaign brief and upload a product image, then launch the entire AI marketing automation workflow.
+  **Input Required:**
+  **`campaign_briefing`** - (**mandatory**) Your product description, key features, motto, and budget
+  **`image_path`** - (**mandatory**) Product image file for visual content creation (optional)
 - Ask about your idea in the last notebook cell, then either run the cells one by one or choose **Run all** from the **Runtime** menu. The required dependencies are installed at the beginning of the notebook.
 
 
