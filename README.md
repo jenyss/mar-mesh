@@ -57,6 +57,8 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 
 ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙
 
+<hr style="border-top: 2px dotted #000;">
+
 ### _Campaign Approver Agent_
 
 **Role:** Human-in-the-Loop Gateway & Workflow Controller
