@@ -35,21 +35,20 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 ![MarMesh Architecture](https://github.com/user-attachments/assets/b50302a8-1c7d-454d-a560-129fbe3c57b2)
 
-### Google ADK Sequential Agent
+### _User Input_
+
+User starts the MarMesh campaign by submitting a product launch brief and product image.
+
+### _Google ADK Sequential Agent_
 
 **Role:** Master Orchestrator & Workflow Controller
-
 **What it does:** Coordinates all campaign agents in sequence to deliver a complete end-to-end marketing automation workflow from initial brief to live multi-channel deployment.
-
 **Process:** Orchestrates the full pipeline: Research → Human Approval → Content Creation → Content Approval → Publishing
-
 **Output:** Complete automated marketing campaign with human checkpoints at critical decision points
 
 *The conductor of your AI marketing orchestra - ensures all agents work together seamlessly to transform your product brief into live campaigns.*
 
-### User Inputs
-
-User starts the MarMesh campaign by submitting a product launch brief and product image.
+---
 
 ### Campaign Approver Agent
 
