@@ -139,22 +139,12 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 
 **Option 1:** Run in Colab
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jUIkSO9a671dizPYFAsAWTbCP8VYXi3W)
-- Add your API keys in the Colab ```Secrets``` menu: ```PERPLEXITY_SONAR_API_KEY```, ```OPENAI_API_KEY```
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
+- Add your API keys in the Colab ```Secrets``` menu: ```PERPLEXITY_SONAR_API_KEY```, ```OPENAI_API_KEY```, ``FAL_KEY```, ``GOOGLE_API_KEY```
+- Ask ChatGPT how publish video on YouTube, then create secret with name: ```GOOGLE_CLIENT_SECRET``` and as value: copy/paste the content of your google client_secret.json file. 
 - Ask about your idea in the last notebook cell, then either run the cells one by one or choose **Run all** from the **Runtime** menu. The required dependencies are installed at the beginning of the notebook.
 
-```
-# idea = "AI‑based evaluation of product novelty in the innovation lifecycle"
-# idea = "Mint cholocate invention"
-# idea = "Planting pot which can be adjusted to different sizes, to get smaller or bigger depending on the need of the plant to be planted."
-# idea = "Overlaying Perplexity research data on a visualization"
-# idea = "An invention that can stop all worlf wars."
-# idea = "An invention that can judge the craziness of an idea."
-# idea = "Was it already discovered that when you press your finger on a tomato a visible fingerprint is left."
 
-idea = "An invention that can judge the craziness of an idea."
-fig = process_idea_novelty_visualization(idea)
-```
 
 **Option 2:** Run Locally
 
