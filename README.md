@@ -10,12 +10,12 @@
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
-**Campaign Strategy** - AI researches your market and creates data-driven strategies  
-**Human Approval** - Review and edit all campaign details before execution  
-**Content Creation** - Automatically generates video content for your campaigns
-**Human Approval** - Approve generated content before publishing
-**Multi-Channel Publishing** - Publishes to YouTube, Instagram, TikTok, ... simultaneously  
-**Complete Automation** - From brief to live campaign with minimal manual work  
+**Campaign Strategy** - AI researches your market and creates data-driven strategies<br>
+**Human Approval** - Review and edit all campaign details before execution<br>  
+**Content Creation** - Automatically generates video content for your campaigns<br>
+**Human Approval** - Approve generated content before publishing<br>
+**Multi-Channel Publishing** - Publishes to YouTube, Instagram, TikTok, ... simultaneously  <br>
+**Complete Automation** - From brief to live campaign with minimal manual work  <br>
 
 ## How It Works
 1. **Input:** _Example_ "Launch energy drink Drex, organic ingredients, 100€ budget"
