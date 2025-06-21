@@ -164,7 +164,6 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 
   **❗❗❗**
   **Important:** After each approval step, you must manually resume the workflow by executing the `await resume_workflow()` cell provided in the notebook.
-  <img src="https://img.icons8.com/emoji/48/exclamation-mark-emoji.png" width="20" height="20"/>
 
 
 **Option 2:** Run Locally
