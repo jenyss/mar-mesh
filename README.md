@@ -157,4 +157,7 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
   - ```FAL_KEY```
   - ```GOOGLE_API_KEY```
 - Ask ChatGPT how publish video on YouTube, then pass its path of your google ```client_secret.json``` file as value to ```CLIENT_SECRET_FILE```, located above the ```get_authenticated_service()```
-- In the last notebook cell, define your product campaign brief and upload a product image, then either run the notebook cells one by one or choose **Run All Cells** from the **Run** menu. 
+- In the last notebook cell, define your product campaign brief and upload a product image, then either run the notebook cells one by one or choose **Run All Cells** from the **Run** menu.
+  **Input Required:**<br>
+  **`campaign_briefing`** - (**mandatory**) Your product description, key features, motto, and budget<br>
+  **`image_path`** - (**mandatory**) Product image file for visual content creation (optional)<br>
