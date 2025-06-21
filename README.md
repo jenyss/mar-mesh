@@ -2,6 +2,11 @@
 
 **Transform your campaign brief into a complete multi-channel marketing campaign in minutes! Just describe your product and budget - our AI agents handle the rest.**
 
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=KklDjV3atjY)
+
+
+If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
+
 ## For Marketers, By Marketers
 ✅ **Campaign Strategy** - AI researches your market and creates data-driven strategies  
 ✅ **Human Approval** - Review and edit all campaign details before execution  
@@ -24,6 +29,7 @@
 - **Marketers** who want AI to handle the heavy lifting
 
 *Turn hours of campaign planning into minutes of smart automation!*
+
 
 ## Architecture
 
