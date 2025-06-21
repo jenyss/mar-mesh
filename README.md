@@ -73,6 +73,24 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 
 ---
 
+### _Campaign Content Creator Agent_
+
+**Role:** AI Video Production Studio
+
+**What it does:** Transforms your approved campaign strategy into professional video content using cutting-edge AI tools for image generation, animation, and audio production.
+
+**Process:**
+1. **Script Generation** - Creates detailed prompts for visual scenes based on your campaign messaging<br>
+2. **Image Creation** - Uses Flux Pro AI to generate high-quality product and lifestyle images<br>
+3. **Video Animation** - Animates images into dynamic video scenes with Kling 2.1 Master<br>
+4. **Video Assembly** - Concatenates all scenes into a cohesive campaign video<br>
+5. **Audio Production** - Generates professional voiceover and background music with Lyria<br>
+6. **Final Production** - Merges video and audio into broadcast-ready content<br>
+
+**Output:** Complete promotional video file ready for multi-channel publishing
+
+*Your AI creative team - handles the entire video production pipeline from concept to final cut, no video editing skills required.*
+
 ---
 
 ### _Campaign Content Approver Agent_
