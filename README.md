@@ -13,7 +13,6 @@ If you have any questions or would like to collaborate, feel free to reach out t
 **Campaign Strategy** - AI researches your market and creates data-driven strategies<br>
 **Human Approval** - Review and edit all campaign details before execution  
 **Content Creation** - Automatically generates video content for your campaigns<br>
-**Human Approval** - Approve/Reject generated content before publishing<br>
 **Multi-Channel Publishing** - Publishes to YouTube, Instagram, TikTok, ... simultaneously  <br>
 **Complete Automation** - From brief to live campaign with minimal manual work  <br>
 
