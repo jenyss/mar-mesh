@@ -15,7 +15,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 ✅ **Complete Automation** - From brief to live campaign with minimal manual work  
 
 ## How It Works
-1. **Input:** Example: "Launch energy drink Drex, organic ingredients, 100€ budget"
+1. **Input:** _Example_ "Launch energy drink Drex, organic ingredients, 100€ budget"
 2. **AI Strategy:** Generates target audience, channels, KPIs, messaging
 3. **Your Approval:** Review and tweak the campaign plan
 4. **Content Creation:** AI creates promotional video content
