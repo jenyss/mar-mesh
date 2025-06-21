@@ -1,6 +1,6 @@
 # MarMesh - AI Marketing Campaign Automation
 
-**Transform your campaign brief into a complete multi-channel marketing campaign in minutes! Just describe your product and budget - our AI agents handle the rest.**
+**Transform your campaign brief into a complete multi-channel marketing campaign in minutes! Just describe your product and budget and let this Google ADK agent handle the rest..**
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=KklDjV3atjY)
 
