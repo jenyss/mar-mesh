@@ -52,7 +52,6 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 *The conductor of your AI marketing orchestra - ensures all agents work together seamlessly to transform your product brief into live campaigns.*
 
 ---
-***
 
 ### _Campaign Approver Agent_
 
@@ -73,6 +72,47 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 *Your quality control checkpoint - ensures every campaign meets your standards before going live.*
 
 ---
+
+---
+
+### _Campaign Content Approver Agent_
+
+**Role:** Creative Quality Control & Publishing Gateway
+
+**What it does:** Displays the AI-generated video content for your final review and approval before it goes live across social channels.
+
+**Process:**
+1. **Content Preview** - Shows the completed video with audio in an interactive player<br>
+2. **Human Review** - Pauses workflow while you watch and evaluate the creative content<br>
+3. **Publishing Decision** - Waits for your "Approve & Publish" or "Reject" choice<br>
+4. **Auto-Resume** - Automatically proceeds to publishing after approval or stops workflow if rejected<br>
+
+**Key Feature:** **Video Preview Interface** - Watch the complete campaign video before it's published to ensure quality and brand alignment
+
+**Output:** Approved video content ready for multi-channel distribution, or workflow termination if rejected
+
+*Your final creative checkpoint - ensures every piece of content represents your brand perfectly before going public.*
+
+---
+
+### _Campaign Publisher Agent_
+
+**Role:** Multi-Channel Distribution Engine & Campaign Archive
+
+**What it does:** Takes your approved video content and automatically publishes it across all selected social media channels, then saves a complete record of the campaign.
+
+**Process:**
+1. **Channel Detection** - Reads approved campaign data to identify target platforms and generates metadata to maximize content visibility and clarity (YouTube, Instagram, TikTok, etc.)<br>
+2. **Multi-Platform Publishing** - Simultaneously uploads video content to all selected channels with platform-optimized settings<br>
+3. **Campaign Archival** - Saves complete campaign state and execution data to local JSON files for record-keeping<br>
+4. **Completion Confirmation** - Reports successful publishing with live URLs and campaign summary<br>
+
+**Key Feature:** **One-Click Multi-Channel** - Publishes to multiple platforms simultaneously instead of manual uploads to each platform
+
+**Output:** Live campaign content across all channels plus complete campaign documentation for future reference
+
+*Your distribution powerhouse - turns approved content into live campaigns across the social media ecosystem in seconds.*
+
 
 ## How-To
 
