@@ -11,7 +11,7 @@
 **Hackathon Video**<br>
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/JpnXxivBuP8) 
 
-**Generated Video**<br>
+**MarMesh Generated Video**<br>
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/lfDlGi5SmeQ?feature=share) 
 
 **MarMesh Agent**<br>
