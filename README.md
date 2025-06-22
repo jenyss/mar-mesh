@@ -11,6 +11,8 @@
 **MarMesh Agent**<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
 
+**Google ADK Hackathon**<br>
+[Devpost](https://devpost.com/software/marmesh)
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
