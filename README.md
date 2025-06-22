@@ -50,7 +50,6 @@ If you have any questions or would like to collaborate, feel free to reach out t
 **Audio Production:** Lyria (Google DeepMind)<br>
 **Video Assembly:** FFMPEG<br>
 **Multi-Platform Publishing:** YouTube Data API v3, (Instagram Graph API, TikTok API - not implemented)<br>
-**Workflow Management:** Event-driven state management with approval gates<br>
 
 ![MarMesh Architecture_v1](https://github.com/user-attachments/assets/e9976af7-91fb-4155-a9fa-b53b506f5bfa)
 
