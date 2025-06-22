@@ -140,7 +140,7 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 **Process:**
 1. **Channel Detection** - Reads approved campaign data to identify target platforms and generates metadata to maximize content visibility and clarity (YouTube, Instagram, TikTok, etc.)<br>
 2. **Multi-Platform Publishing** - Simultaneously uploads video content to all selected channels with platform-optimized settings<br>
-3. **Campaign Archival** - Saves complete campaign state and execution data to local JSON files for record-keeping<br>
+3. **Campaign Archival** - Saves complete campaign state and execution data to local JSON files for record-keeping and analytics<br>
 4. **Completion Confirmation** - Reports successful publishing with live URLs and campaign summary<br>
 
 **Key Feature:** **One-Click Multi-Channel** - Publishes to multiple platforms simultaneously instead of manual uploads to each platform
