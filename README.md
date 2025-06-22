@@ -41,7 +41,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 ### Technical Stack
 **Core Framework:** Google Agent Development Kit (ADK)<br>
-**Research:** Gemini, Perplexity<br>
+**Marketing Strategy Research:** Gemini, Perplexity<br>
 **Prompt Generation:** GPT-4o<br>
 **AI Image Generation:** Flux Pro AI<br>
 **Video Animation:** Kling 2.1 Master<br>
