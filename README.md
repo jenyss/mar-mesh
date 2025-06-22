@@ -2,6 +2,12 @@
 
 **Transform your campaign brief into a complete multi-channel marketing campaign in minutes! Just describe your product and budget and let this Google ADK agent handle the rest.**
 
+**Campaign Strategy** - AI researches your market and creates data-driven strategies<br>
+**Human Approval** - Review and edit all campaign details before execution  
+**Content Creation** - Automatically generates video content for your campaigns<br>
+**Multi-Channel Publishing** - Publishes to YouTube, Instagram, TikTok, ... simultaneously  <br>
+**Complete Automation** - From brief to live campaign with minimal manual work  <br>
+
 **Hackathon Video**<br>
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=KklDjV3atjY) 
 
@@ -14,12 +20,6 @@
 **[Devpost Google ADK Hackathon](https://devpost.com/software/marmesh)**
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
-
-**Campaign Strategy** - AI researches your market and creates data-driven strategies<br>
-**Human Approval** - Review and edit all campaign details before execution  
-**Content Creation** - Automatically generates video content for your campaigns<br>
-**Multi-Channel Publishing** - Publishes to YouTube, Instagram, TikTok, ... simultaneously  <br>
-**Complete Automation** - From brief to live campaign with minimal manual work  <br>
 
 ## How It Works
 1. **Input:** _Example_ "Launch energy drink Drex, organic ingredients, 100€ budget"
