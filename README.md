@@ -14,7 +14,7 @@
 **MarMesh Generated Video**<br>
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/lfDlGi5SmeQ?feature=share) 
 
-**MarMesh**<br>
+**Run MarMesh**<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
 
 **[Devpost Google ADK Hackathon](https://devpost.com/software/marmesh)**
