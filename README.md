@@ -28,7 +28,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 4. **Content Creation:** AI creates promotional video content
 5. **Your Final OK:** Approve the creative before it goes live
 6. **Auto-Publish:** Deploys across all selected social channels
-7. **Data Persistence:** Campaign data stored in the agent's tool_context is automatically saved to a local JSON file for future analytics and reference
+7. **Data Persistence:** Campaign data stored in the agent's tool_context is automatically saved to a local JSON file for future analytics and reference.
 
 ## Perfect For
 - **Small businesses** with limited marketing resources
