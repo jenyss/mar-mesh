@@ -9,7 +9,7 @@
 **Complete Automation** - From brief to live campaign with minimal manual work  <br>
 
 **Hackathon Video**<br>
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=KklDjV3atjY) 
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/JpnXxivBuP8) 
 
 **Generated Video**<br>
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/a98-OUanNHs?feature=share) 
