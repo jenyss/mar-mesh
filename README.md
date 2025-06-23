@@ -51,7 +51,9 @@ If you have any questions or would like to collaborate, feel free to reach out t
 **Video Assembly:** FFMPEG<br>
 **Multi-Platform Publishing:** YouTube Data API v3, (Instagram Graph API, TikTok API - not implemented)<br>
 
-![MarMesh Architecture_v1](https://github.com/user-attachments/assets/e9976af7-91fb-4155-a9fa-b53b506f5bfa)
+
+![MarMesh Architecture](https://github.com/user-attachments/assets/9f90bda6-aaa8-4ba4-9c1a-982c46e266a6)
+
 
 ### _User Input_
 
