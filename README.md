@@ -16,9 +16,6 @@
 
 **Product image input:** [drex2](https://github.com/user-attachments/assets/6ea38410-a709-45fc-b1ae-e11ca92c4405)
 
-**Run MarMesh**<br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
-
 **[Devpost Google ADK Hackathon](https://devpost.com/software/marmesh)**
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
@@ -31,6 +28,9 @@ If you have any questions or would like to collaborate, feel free to reach out t
 5. **Your Final OK:** Approve the creative before it goes live
 6. **Auto-Publish:** Deploys across all selected social channels
 7. **Data Persistence:** Campaign data stored in the agent's tool_context is automatically saved to a local JSON file for future analytics and reference
+
+**Run MarMesh**<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
 
 ## Perfect For
 - **Small businesses** with limited marketing resources
