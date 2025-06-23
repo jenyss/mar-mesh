@@ -156,7 +156,7 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
 - Add your API keys in the Colab ```Secrets``` menu: ```PERPLEXITY_SONAR_API_KEY```, ```OPENAI_API_KEY```, ```FAL_KEY```, ```GOOGLE_API_KEY```
-- Ask ChatGPT how publish video on YouTube, then create secret with name: ```GOOGLE_CLIENT_SECRET``` and as value: copy/paste the content of your google ```client_secret.json``` file.
+- Create an OAuth 2.0 Client in GCP with ```Desktop App``` permissions and add a Test user (if you don't have an user already). Then, create a secret named ```GOOGLE_CLIENT_SECRET``` and set its value to the full contents of your Google ```client_secret.json``` file. Just copy/paste the whole JSON.
 - Define your product campaign brief and upload a product image, then launch the entire AI marketing automation workflow by using **Run all** from the **Runtime** menu. The required dependencies are installed at the beginning of the notebook.<br>
 
   **Input:**<br>
@@ -175,7 +175,7 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
   - ```OPENAI_API_KEY```
   - ```FAL_KEY```
   - ```GOOGLE_API_KEY```
-- Ask ChatGPT how publish video on YouTube, then pass its path of your google ```client_secret.json``` file as value to ```CLIENT_SECRET_FILE```, located above the ```get_authenticated_service()```
+- Create an OAuth 2.0 Client in GCP with ```Web App``` permissions and add a Test user (if you don’t have one already). Download the ```client_secret.json``` file from Google and provide its path as the value for ```CLIENT_SECRET_FILE```, located above the ```get_authenticated_service()``` function.
 - In the last notebook cell, define your product campaign brief and upload a product image, then either run the notebook cells one by one or choose **Run All Cells** from the **Run** menu.
   **Input Required:**<br>
   **`campaign_briefing`** - (**mandatory**) Your product description, key features, motto, and budget<br>
