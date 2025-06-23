@@ -29,8 +29,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 6. **Auto-Publish:** Deploys across all selected social channels
 7. **Data Persistence:** Campaign data stored in the agent's tool_context is automatically saved to a local JSON file for future analytics and reference
 
-**Run MarMesh**<br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
 
 ## Perfect For
 - **Small businesses** with limited marketing resources
