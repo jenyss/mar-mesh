@@ -16,7 +16,7 @@
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
 ## How It Works
-1. **Input:** _Example_ "Launch energy drink Drex, organic ingredients, 100€ budget"
+1. **Input:** _Example_ "Launch energy drink Drex, organic ingredients, 100€ budget" & Product image
 2. **AI Strategy:** Generates target audience, channels, KPIs, messaging
 3. **Your Approval:** Review and tweak the campaign plan
 4. **Content Creation:** AI creates promotional video content
@@ -29,7 +29,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 **MarMesh Generated Video**<br>
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/lfDlGi5SmeQ?feature=share) 
 
-**Product image input:** [drex2](https://github.com/user-attachments/assets/6ea38410-a709-45fc-b1ae-e11ca92c4405)
+**Product Image Input:** [drex2](https://github.com/user-attachments/assets/6ea38410-a709-45fc-b1ae-e11ca92c4405)
 
 ## Perfect For
 - **Small businesses** with limited marketing resources
