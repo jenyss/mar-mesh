@@ -11,11 +11,6 @@
 **Hackathon Video**<br>
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/JpnXxivBuP8) 
 
-**MarMesh Generated Video**<br>
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/lfDlGi5SmeQ?feature=share) 
-
-**Product image input:** [drex2](https://github.com/user-attachments/assets/6ea38410-a709-45fc-b1ae-e11ca92c4405)
-
 **[Devpost Google ADK Hackathon](https://devpost.com/software/marmesh)**
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
@@ -30,6 +25,11 @@ If you have any questions or would like to collaborate, feel free to reach out t
 7. **Data Persistence:** Campaign data stored in the agent's tool_context is automatically saved to a local JSON file for future analytics and reference
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
+
+**MarMesh Generated Video**<br>
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/lfDlGi5SmeQ?feature=share) 
+
+**Product image input:** [drex2](https://github.com/user-attachments/assets/6ea38410-a709-45fc-b1ae-e11ca92c4405)
 
 ## Perfect For
 - **Small businesses** with limited marketing resources
