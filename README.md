@@ -182,7 +182,11 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
   **Input Required:**<br>
   **`campaign_briefing`** - (**mandatory**) Your product description, key features, motto, and budget<br>
   **`image_path`** - (**mandatory**) Product image file for visual content creation (optional)<br>
-- (Optional) You can update `parts=[types.Part(text="Approved. Please continue.")]` to `parts=[types.Part(text="Approved. Please continue. Do not repeat campaign strategy.")]`
+- (Optional) You can update
+   `parts=[types.Part(text="Approved. Please continue.")]`
+   to
+   `parts=[types.Part(text="Approved. Please continue. Do not repeat campaign strategy.")]`
+   This helps instruct the agent to proceed without re-generating a generic campaign strategy (which isn’t persisted and is redundant since that step is already complete).
 
   **❗❗❗**
   **Important:** After each approval step, you must manually resume the workflow by executing the `await resume_workflow()` cell provided in the notebook.
