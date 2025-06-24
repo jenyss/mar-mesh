@@ -74,6 +74,23 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 
 ---
 
+## Campaign Advisor Agent
+
+**Role:** Senior Marketing Strategist & Research Coordinator
+
+**What it does:** Takes your product brief and creates a complete, data-driven campaign strategy by researching market trends and synthesizing insights from multiple AI sources.
+
+**Process:**
+1. **Research Phase** - Queries both Gemini and Perplexity for market insights, competitor analysis, and strategy recommendations
+2. **Synthesis Phase** - Combines all research into a structured campaign plan with target audience, channels, messaging, KPIs, and budget allocation
+3. **Validation** - Ensures all critical campaign elements are present before passing to approval
+
+**Output:** Complete campaign strategy ready for human review and approval
+
+*The strategic brain of your marketing automation - transforms basic product info into professional campaign plans backed by AI research.*
+
+---
+
 ### _Campaign Approver Agent_
 
 **Role:** Human-in-the-Loop Gateway & Workflow Controller
@@ -105,7 +122,7 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 2. **Image Creation** - Uses Flux Pro AI to generate high-quality product and lifestyle images<br>
 3. **Video Animation** - Animates images into dynamic video scenes with Kling 2.1 Master<br>
 4. **Video Assembly** - Concatenates all scenes into a cohesive campaign video<br>
-5. **Audio Production** - Generates professional voiceover and background music with Lyria<br>
+5. **Audio Production** - Generates background music with Lyria<br>
 6. **Final Production** - Merges video and audio into broadcast-ready content<br>
 
 **Output:** Complete promotional video file ready for multi-channel publishing
@@ -124,7 +141,7 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 1. **Content Preview** - Shows the completed video with audio in an interactive player<br>
 2. **Human Review** - Pauses workflow while you watch and evaluate the creative content<br>
 3. **Publishing Decision** - Waits for your "Approve & Publish" or "Reject" choice<br>
-4. **Auto-Resume** - Automatically proceeds to publishing after approval or stops workflow if rejected<br>
+4. **Auto-Resume** - Proceeds to publishing after approval or stops workflow if rejected<br>
 
 **Key Feature:** **Video Preview Interface** - Watch the complete campaign video before it's published to ensure quality and brand alignment
 
