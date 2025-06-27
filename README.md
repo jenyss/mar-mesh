@@ -53,7 +53,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 **Multi-Platform Publishing:** YouTube Data API v3, (Instagram Graph API, TikTok API - not implemented)<br>
 
 
-![MarMesh Architecture](https://github.com/user-attachments/assets/9f90bda6-aaa8-4ba4-9c1a-982c46e266a6)
+![MarMesh Architecture](https://github.com/user-attachments/assets/9cb85142-6390-4e7b-8b90-d1138ed5bd37)
 
 
 ### _User Input_
