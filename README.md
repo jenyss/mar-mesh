@@ -176,7 +176,7 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
 - Add your API keys in the Colab ```Secrets``` menu: ```PERPLEXITY_SONAR_API_KEY```, ```OPENAI_API_KEY```, ```FAL_KEY```, ```GOOGLE_API_KEY```
-- Create an OAuth 2.0 Client in GCP with ```Desktop App``` permissions and add a Test user (if you don't have an user already). Then, create a secret named ```GOOGLE_CLIENT_SECRET``` and set its value to the full contents of your Google ```client_secret.json``` file. Just copy/paste the whole JSON.
+- Create an OAuth 2.0 Client in GCP with ```Desktop App``` permissions and add a Test user (if you don't have an user already). Then, create a secret named ```GOOGLE_CLIENT_SECRET``` and set its value to the full contents of your Google ```client_secret.json``` file. Just copy/paste the whole JSON content.
 - Define your product campaign brief and upload a product image, then launch the entire AI marketing automation workflow by using **Run all** from the **Runtime** menu. The required dependencies are installed at the beginning of the notebook.<br>
 
   **Input:**<br>
