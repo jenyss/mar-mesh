@@ -196,7 +196,8 @@ User starts the MarMesh campaign by submitting a product launch brief and produc
   - ```FAL_KEY```
   - ```GOOGLE_API_KEY```
 - Create an OAuth 2.0 Client in GCP with ```Web App``` permissions and add a Test user (if you don’t have one already). Download the ```client_secret.json``` file from Google and provide its path as the value for ```CLIENT_SECRET_FILE```, located above the ```get_authenticated_service()``` function.
-- In the last notebook cell, define your product campaign brief and upload a product image, then either run the notebook cells one by one or choose **Run All Cells** from the **Run** menu.
+- In the last notebook cell, define your product campaign brief and upload a product image, then either run the notebook cells one by one or choose **Run All Cells** from the **Run** menu.<br>
+
   **Input Required:**<br>
   **`campaign_briefing`** - (**mandatory**) Your product description, key features, motto, and budget<br>
   **`image_path`** - (**mandatory**) Product image file for visual content creation (optional)<br>
