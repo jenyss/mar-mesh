@@ -8,6 +8,14 @@
 **Multi-Channel Publishing** - Publishes to YouTube, Instagram, TikTok, ... simultaneously  <br>
 **Complete Automation** - From brief to live campaign with minimal manual work  <br>
 
+## Perfect For
+- **Small businesses** with limited marketing resources
+- **Startups** launching new products quickly
+- **Agencies** wanting to scale campaign creation
+- **Marketers** who want AI to handle the heavy lifting
+
+*Turn hours of campaign planning into minutes of smart automation!*
+
 [![ADK Hackathon](https://img.shields.io/badge/ADK-Hackathon-blue)](https://devpost.com/software/marmesh)
 
 **Hackathon Video**<br>
@@ -30,14 +38,6 @@ If you have any questions or would like to collaborate, feel free to reach out t
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/lfDlGi5SmeQ?feature=share) 
 
 **Product Image Input:** [drex2](https://github.com/user-attachments/assets/6ea38410-a709-45fc-b1ae-e11ca92c4405)
-
-## Perfect For
-- **Small businesses** with limited marketing resources
-- **Startups** launching new products quickly
-- **Agencies** wanting to scale campaign creation
-- **Marketers** who want AI to handle the heavy lifting
-
-*Turn hours of campaign planning into minutes of smart automation!*
 
 
 ## Architecture
