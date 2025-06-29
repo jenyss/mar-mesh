@@ -8,7 +8,7 @@
 **Multi-Channel Publishing** - Publishes to YouTube, Instagram, TikTok, ... simultaneously  <br>
 **Complete Automation** - From brief to live campaign with minimal manual work  <br>
 
-## Perfect For
+### Perfect For
 - **Small businesses** with limited marketing resources
 - **Startups** launching new products quickly
 - **Agencies** wanting to scale campaign creation
