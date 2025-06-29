@@ -10,6 +10,10 @@
 
 **[Devpost Google ADK Hackathon](https://devpost.com/software/marmesh)**
 
+[![ADK Hackathon](https://img.shields.io/badge/ADK-Hackathon-blue)](https://googlecloudmultiagents.devpost.com/)
+
+
+
 **Hackathon Video**<br>
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/JpnXxivBuP8) 
 
