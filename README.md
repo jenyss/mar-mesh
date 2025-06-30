@@ -35,7 +35,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eVnoC7Tx5cnH_GRy5-_hOsm3s-hdN9Re?usp=sharing)
 
 **MarMesh Generated Video**<br>
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/lfDlGi5SmeQ?feature=share) 
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtube.com/shorts/S1BcDa-Bf1U?feature=share) 
 
 **Product Image Input:** [drex2](https://github.com/user-attachments/assets/6ea38410-a709-45fc-b1ae-e11ca92c4405)
 
