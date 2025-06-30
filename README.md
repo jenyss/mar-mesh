@@ -19,7 +19,7 @@
 [![ADK Hackathon](https://img.shields.io/badge/ADK-Hackathon-blue)](https://devpost.com/software/marmesh)
 
 **Hackathon Video**<br>
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/JpnXxivBuP8) 
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/rp_U5jcZ_w8) 
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
